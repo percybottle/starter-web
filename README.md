@@ -13,6 +13,8 @@ Sample website with plenty of files for demos
 ## How To Contribute
 
 Pay lots of money
+Please fork this repos and then issu pull
+request for review.
 
 ## Some other stuff
 
