@@ -12,4 +12,8 @@ Sample website with plenty of files for demos
 
 ## How To Contribute
 
+Pay lots of money
+
 ## Some other stuff
+
+Here's some stuff
