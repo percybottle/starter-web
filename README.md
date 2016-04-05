@@ -17,3 +17,7 @@ Pay lots of money
 ## Some other stuff
 
 Here's some stuff
+
+### Copyright
+
+2016 Percy
