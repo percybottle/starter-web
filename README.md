@@ -22,4 +22,4 @@ Here's some stuff
 
 ### Copyright
 
-2016 Percy
+2016 Percy. All rights reserved.
